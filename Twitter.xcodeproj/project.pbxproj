@@ -39,6 +39,7 @@
 		CAB537C3291CB35300AE86AE /* TweetService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB537C2291CB35200AE86AE /* TweetService.swift */; };
 		CAB537C5291CB63200AE86AE /* Tweet.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB537C4291CB63200AE86AE /* Tweet.swift */; };
 		CAB537C7291CBBC600AE86AE /* TweetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB537C6291CBBC600AE86AE /* TweetCell.swift */; };
+		CADF4F1729A4542D00EC01CB /* ProfileHeaderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADF4F1629A4542D00EC01CB /* ProfileHeaderViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		CAB537C2291CB35200AE86AE /* TweetService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetService.swift; sourceTree = "<group>"; };
 		CAB537C4291CB63200AE86AE /* Tweet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tweet.swift; sourceTree = "<group>"; };
 		CAB537C6291CBBC600AE86AE /* TweetCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCell.swift; sourceTree = "<group>"; };
+		CADF4F1629A4542D00EC01CB /* ProfileHeaderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHeaderViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				CA1785632980866300FD6060 /* TweetViewModel.swift */,
+				CADF4F1629A4542D00EC01CB /* ProfileHeaderViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 				CAB537C7291CBBC600AE86AE /* TweetCell.swift in Sources */,
 				CA6C037C289C568C00B6A887 /* LoginController.swift in Sources */,
 				CA5B19B2290DF6210076E82F /* AuthService.swift in Sources */,
+				CADF4F1729A4542D00EC01CB /* ProfileHeaderViewModel.swift in Sources */,
 				CAB537BF291C689C00AE86AE /* UploadTweetController.swift in Sources */,
 				CAB537BA291B881600AE86AE /* User.swift in Sources */,
 				CA6C0373289C46FF00B6A887 /* ExploreController.swift in Sources */,
